@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Muse Aden Ahmed"
 PAGE_ICON = ":wave:"
 NAME = "Muse Aden Ahmed"
 DESCRIPTION = """
-I am skilled Data Scientist with problem-solving bussiness understanding, and communication skills. 
+I am skilled Data analyst with problem-solving bussiness understanding, and communication skills. 
 """
 EMAIL = "musexasan483@gmail.com"
 SOCIAL_MEDIA = {
@@ -109,7 +109,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "** Data Scientist | Delta consultant**")
+st.write("🚧", "** Data Analyst | Prefile consultant**")
 st.write("07/2021 - up to know")
 st.write(
     """
@@ -123,7 +123,7 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("🚧", "**Lecturer | New Generation University College**")
-st.write("11/2019 - 03/2021")
+st.write("11/2019 - 03/2020")
 st.write(
     """
 - ► Evaluated processes and ensured appropriate learning process
